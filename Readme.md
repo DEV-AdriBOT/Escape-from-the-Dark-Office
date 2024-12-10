@@ -16,12 +16,13 @@ The game emphasizes exploration, interactive storytelling, and the player's abil
 
 ## Credits  
 **Development:** Adrián  
-**Art and Design:** [Artist's name or your name if you're creating it yourself]  
+**Art and Design:** Adrián  
 **Story and Script:** Adrián  
-**Sound and Music:** [Your name or collaborators]  
+**Sound and Music:** Adrián    
 **Special Thanks:**  
-- The [Discord or Instagram] community for their feedback and support.  
+- The Discord community for their feedback and support.  
 - Tools and resources used: Unity/SFML/SDL2, graphic libraries, and royalty-free music.  
+- My best friend Bishop for always supporting me <3
 
 ## How to Play  
 1. Download the game from [download link or official website].  
