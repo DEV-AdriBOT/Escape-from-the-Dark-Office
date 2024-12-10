@@ -1,0 +1,36 @@
+EscapeFromTheDarkOffice/   
+│
+├── assets/                  # Archivos de recursos (imágenes, sonidos, etc.)
+│   ├── sprites/             # Imágenes (fondos, personajes, etc.)
+│   ├── sounds/              # Archivos de sonido (efectos, música)
+│   └── fonts/               # Fuentes (si las usas en la interfaz)
+│
+├── src/                     # Código fuente principal
+│   ├── main.cpp             # Punto de entrada principal
+│   ├── Game.cpp             # Lógica principal del juego
+│   ├── Gameœ.h               # Declaraciones de la clase Game
+│   ├── Player.cpp           # Lógica del jugador
+│   ├── Player.h             # Declaraciones de la clase Player
+│   ├── Boss.cpp             # Lógica del jefe
+│   ├── Boss.h               # Declaraciones de la clase Boss
+│   ├── Puzzle.cpp           # Lógica de los puzzles
+│   ├── Puzzle.h             # Declaraciones de la clase Puzzle
+│   ├── Dialogues.cpp        # Lógica de diálogos
+│   ├── Dialogues.h          # Declaraciones de la clase Dialogues
+│   ├── Scene.cpp            # Lógica de las escenas
+│   ├── Scene.h              # Declaraciones de la clase Scene
+│   ├── Inventory.cpp        # Lógica del inventario
+│   ├── Inventory.h          # Declaraciones de la clase Inventory
+│   └── AudioManager.cpp     # Control de sonido y música
+│
+├── include/                 # Archivos de cabecera generales
+│   ├── SFML/                # Si usas SFML, aquí van sus cabeceras
+│   └── SDL2/                # Si usas SDL2, sus cabeceras van aquí
+│
+├── lib/                     # Librerías externas (SFML, SDL2, etc.)
+│
+├── build/                   # Archivos generados durante la compilación
+│
+├── CMakeLists.txt           # Configuración de CMake (si usas CMake)
+│
+└── README.md                # Documentación básica del proyecto

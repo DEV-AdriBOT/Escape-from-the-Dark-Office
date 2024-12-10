@@ -1,0 +1,64 @@
+
+Escape from the Dark Office
+Género
+Novela Gráfica / Aventura de Puzzles Interactivos
+
+Plataformas
+Mac y Windows (desarrollado en C++ con una biblioteca de gráficos como SDL2 o SFML, o en Unity para aprovechar herramientas gráficas más avanzadas y una mayor facilidad de portabilidad entre plataformas).
+
+Descripción
+En Escape from the Dark Office, el jugador toma el rol de un joven que acaba de conseguir un trabajo en una escuela de renombre. Todo parece normal al principio, pero pronto descubre que su jefe, una persona carismática pero extraña, tiene oscuros secretos. Lo que empieza como una rutina de oficina común y corriente, rápidamente se convierte en una lucha por la supervivencia, mientras el protagonista trata de escapar de un colegio lleno de trampas mortales y situaciones cada vez más inquietantes.
+
+El jefe, en realidad, es un asesino en serie que ha estado acechando el colegio durante años. Cada asesinato que comete está cuidadosamente encubierto, y el protagonista, que al principio se siente afortunado por su trabajo, empieza a notar patrones extraños en la conducta de su jefe y en la forma en que otros empleados y estudiantes desaparecen sin dejar rastro.
+
+Mecánicas de Juego
+	1.	Investigación y exploración
+• El jugador debe explorar diferentes áreas del colegio: oficina, pasillos, aulas y sótanos.
+• La historia se cuenta mediante diálogos interactivos, notas, grabaciones y pistas visuales.
+	2.	Puzzles
+• A medida que avanza, el jugador debe resolver puzzles que van desde acertijos de lógica hasta desafíos basados en el entorno. Estos puzzles son cruciales para desbloquear nuevas áreas y encontrar pistas que ayuden a desentrañar la historia y las motivaciones del jefe.
+• Algunos puzzles están relacionados con la forma en que el jefe mantiene su fachada de respetabilidad y oculta sus crímenes.
+	3.	Toma de decisiones
+• Las decisiones del jugador influyen en la trama. El jugador puede optar por cooperar con el jefe o intentar huir, lo que afectará a los diálogos y al desenlace.
+• Hay caminos alternativos que pueden llevar a varios finales, como escapar con éxito, descubrir la verdad y salvar a otros, o ser víctima de las manipulaciones del jefe.
+	4.	Escapatoria
+• El objetivo final es escapar del colegio antes de ser descubierto. El jugador debe encontrar formas de evadir a los guardias y al jefe mientras resuelve los rompecabezas y pone en marcha su plan de fuga.
+• Los jugadores deberán aprender a moverse en sigilo, aprovechar las distracciones y utilizar objetos para desbloquear nuevas rutas.
+
+Estilo Visual
+• Estilo de novela gráfica con arte 2D detallado, con personajes dibujados a mano y fondos estáticos. La atmósfera debe ser oscura y misteriosa, con colores apagados y sombras que transmitan tensión.
+• Interactividad: las escenas y personajes cambian según las decisiones del jugador, con diferentes ramas de la narrativa que se despliegan.
+
+Personajes Principales
+	1.	El Protagonista (Jugador)
+• Un joven trabajador que está tratando de mantener un bajo perfil mientras intenta descubrir la verdad. Puede ser personalizado por el jugador, desde su nombre hasta algunas características menores.
+	2.	El Jefe (Antagonista)
+• Una persona carismática pero peligrosa que oculta su verdadera naturaleza. Siempre está sonriendo y parece preocuparse por el bienestar de los empleados, pero sus acciones revelan que tiene una agenda oscura.
+	3.	Compañeros de trabajo
+• Diversos personajes secundarios que el jugador puede interrogar o interactuar. Algunos de estos compañeros pueden ser cómplices del jefe, mientras que otros podrían ser víctimas potenciales.
+	4.	El Guardián del Colegio
+• Un personaje que constantemente vigila el colegio y persigue al jugador. Será un obstáculo frecuente, con el jugador teniendo que esconderse o distraerlo para progresar.
+
+Aspectos Técnicos
+	•	Motor gráfico
+• Unity podría ser la mejor opción si deseas aprovechar recursos gráficos y crear una experiencia más fluida y tridimensional en ciertos momentos (como la exploración en 3D o el uso de efectos de iluminación).
+• Si prefieres C++, podrías usar una biblioteca como SFML o SDL2 para manejar gráficos 2D, sonido y eventos de interacción.
+	•	Sonido
+• Música ambiental con tintes oscuros y misteriosos.
+• Efectos de sonido de suspense: pasos, puertas que chirrían, susurros, y efectos sutiles para aumentar la tensión.
+• Voces de los personajes para mejorar la inmersión, con diálogos grabados que cambian según las decisiones del jugador.
+
+Marketing
+	•	Instagram
+• Crear una cuenta para compartir avances de desarrollo, teasers visuales y frases impactantes de la trama para generar expectación.
+• Publicar historias que cuenten pequeñas partes del trasfondo del jefe o de los sucesos extraños en el colegio.
+• Organizar concursos para que los seguidores puedan votar sobre decisiones importantes del juego (e.g., nombre de personajes, lugares del colegio).
+	•	Discord
+• Crear un servidor de Discord para interactuar con la comunidad de jugadores, recibir feedback sobre las mecánicas de juego y promocionar actualizaciones.
+• Ofrecer acceso anticipado o demos exclusivas a quienes se suscriban o participen activamente.
+• Organizar sesiones de preguntas y respuestas con los desarrolladores, discutiendo detalles de la trama o la creación del juego.
+
+Desenlace
+El final del juego depende de las elecciones del jugador:
+• Final bueno: El protagonista escapa del colegio y logra desenmascarar al jefe, asegurando que se haga justicia.
+• Final malo: El protagonista es capturado por el jefe, quien lo convierte en su siguiente víctima. También puede haber un final ambiguo donde el jugador nunca se escapa, pero la historia queda abierta.
